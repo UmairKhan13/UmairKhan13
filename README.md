@@ -3,8 +3,8 @@
 <br>
 
 👨🏽‍💻 **About Me:**
-<p>I am a computer enthusiast who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from Fast University and i am currently a 3rd year student. I have attended and have been part of multiple coding competitions. Apart from this i like to solve technical problems and like to work more on backend.</p>
-<p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
+<p>I am a Computer Scientist, Who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from FAST NUCES and working as an Automation Engineer With Retrocausal..</p>
+<p>I am passionate about my work as I love what I do, I have a steady source of motivation that drives me to do my best.This passion led me to challenge myself daily and learn new skills that helped me to do better work. </p>
 <br>
 
 ### Programming Languages:
@@ -14,6 +14,12 @@
 - Javascript
 - Typescript
 - C/C++
+
+### Automation Technologies:
+- Selenium
+- Appium
+- Cypress
+- Robotics Process Automation (RPA)
 
 ### Front-end development:
 - HTML | CSS | SCSS | JS
