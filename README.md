@@ -1,5 +1,11 @@
-### Hi there 👋, I am Umair.
-<hr />
+# <div align="center">Hi 👋🏼 Umair Khan here</div>
+ <div align="center"><strong>WELCOME TO MY CODING WORLD!</strong></div>
+<br>
+
+👨🏽‍💻 **About Me:**
+<p>I am a computer enthusiast who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from Fast University and i am currently a 3rd year student. I have attended and have been part of multiple coding competitions. Apart from this i like to solve technical problems and like to work more on backend.</p>
+<p>I have started to learn and acquire skills in different fields including Cloud-Computing, Artifitial Intelligence and Web Developement</p>
+<br>
 
 ### Programming Languages:
 - JAVA
