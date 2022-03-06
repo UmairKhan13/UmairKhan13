@@ -3,8 +3,8 @@
 <br>
 
 👨🏽‍💻 **About Me:**
-<p>I am a Computer Scientist, Who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from FAST NUCES and working as an Automation Engineer With Retrocausal..</p>
-<p>I am passionate about my work as I love what I do, I have a steady source of motivation that drives me to do my best.This passion led me to challenge myself daily and learn new skills that helped me to do better work. </p>
+<p>I am a Computer Scientist, Who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from FAST NUCES and working as an Automation Engineer With Retrocausal..<br>
+I am passionate about my work as I love what I do, I have a steady source of motivation that drives me to do my best.This passion led me to challenge myself daily and learn new skills that helped me to do better work. </p>
 <br>
 
 ### Programming Languages:
