@@ -44,4 +44,4 @@
 
 ### How to reach me ?
 
-[<img src="./icons/linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
+[<img src="./linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
