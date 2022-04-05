@@ -23,17 +23,15 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 
 ### Front-end development:
 - HTML | CSS | SCSS | JS
-- React | Redux 
+- Vue
 - Bootstrap
 
 ### Back-end development:
 - Nodejs | Express
-- SpringBoot | Hibernate
 - Flask | Django
 
 
 ### Mobile development:
-- React Native
 - Flutter
 - Native JAVA
 
@@ -43,7 +41,6 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 ### Tools:
 - AzureDevOps
 - JIRA
-- kubernetes
 - Docker
 - Git
 - Gitlab
