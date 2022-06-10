@@ -17,7 +17,6 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 
 ### Automation Technologies:
 - Selenium
-- Appium
 - Cypress
 - Robotics Process Automation (RPA)
 
