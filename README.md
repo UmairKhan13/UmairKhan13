@@ -3,8 +3,10 @@
 <br>
 
 👨🏽‍💻 **About Me:**
-<p>I am a Computer Scientist, Who is always eager to learn new stuff. I am currently doing my Bachelor's in Computer Science from FAST NUCES and working as an Automation Engineer With Retrocausal..<br>
-I am passionate about my work as I love what I do, I have a steady source of motivation that drives me to do my best.This passion led me to challenge myself daily and learn new skills that helped me to do better work. </p>
+<p>Highly Experienced Automation Engineer With Expertise in Web and Desktop Automation.<br>
+Experienced in Developing Data Driven , Key Word Driven and Behavior driven Test Automation Frameworks Involved in Functional, Integration, System, Regression, Acceptance Automation and Browser Compatibility testing with Testing Methodologies. <br>
+Working in Agile Development process with frequently changing requirements and features set. Attending Scrum, Sprint Planning, Retrospective and other meetings. <br>
+Excellent knowledge and working experience in SDLC and STLC with Test Planning, Test Execution, Bug Reporting and Test Results analysis.</p>
 <br>
 
 ### Programming Languages:
@@ -17,12 +19,14 @@ I am passionate about my work as I love what I do, I have a steady source of mot
 
 ### Automation Technologies:
 - Selenium
+- Appium
+- MS WinAppDriver
+- Playwright
 - Cypress
 - Robotics Process Automation (RPA)
 
 ### Front-end development:
 - HTML | CSS | SCSS | JS
-- Vue
 - Bootstrap
 
 ### Back-end development:
