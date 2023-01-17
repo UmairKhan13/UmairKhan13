@@ -3,10 +3,9 @@
 <br>
 
 👨🏽‍💻 **About Me:**
-<p>Highly Experienced Automation Engineer With Expertise in Web and Desktop Automation.<br>
-Experienced in Developing Data Driven , Key Word Driven and Behavior driven Test Automation Frameworks Involved in Functional, Integration, System, Regression, Acceptance Automation and Browser Compatibility testing with Testing Methodologies. <br>
-Working in Agile Development process with frequently changing requirements and features set. Attending Scrum, Sprint Planning, Retrospective and other meetings. <br>
-Excellent knowledge and working experience in SDLC and STLC with Test Planning, Test Execution, Bug Reporting and Test Results analysis.</p>
+<p>As a highly experienced Automation Engineer, I bring a unique blend of technical knowledge and problem-solving skills to the table. My expertise in web and desktop automation, paired with my experience in developing data-driven, keyword-driven, and behavior-driven test automation frameworks, allows me to design and implement efficient and effective test suites that ensure the highest quality of software products. I have been involved in various types of testing including functional, integration, system, regression, acceptance automation, and browser compatibility testing using various testing methodologies.<br><br>
+
+I have a strong understanding of the Agile development process and have experience working with frequently changing requirements and feature sets. I am well-versed in attending Scrum, Sprint Planning, Retrospective, and other meetings to ensure smooth project execution. My knowledge and working experience in SDLC and STLC are excellent, with expertise in test planning, test execution, bug reporting, and test results analysis. I am always seeking new challenges and opportunities to learn and grow as an engineer, and I am excited to bring my skills and expertise to a dynamic and forward-thinking team.</p>
 <br>
 
 ### Programming Languages:
