@@ -51,3 +51,6 @@ I have a strong understanding of the Agile development process and have experien
 ### How to reach me ?
 
 [<img src="./linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
+[<img src="./website_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
+[<img src="./medium_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
+[<img src="./stack_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
