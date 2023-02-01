@@ -22,6 +22,7 @@ I have a strong understanding of the Agile development process and have experien
 - MS WinAppDriver
 - Playwright
 - Cypress
+- JMeter
 - Robotics Process Automation (RPA)
 
 ### Front-end development:
