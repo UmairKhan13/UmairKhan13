@@ -47,6 +47,7 @@ I have a strong understanding of the Agile development process and have experien
 - Docker
 - Git
 - Gitlab
+- Jenkins
 
 ### How to reach me ?
 
