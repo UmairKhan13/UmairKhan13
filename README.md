@@ -28,9 +28,10 @@ I have a strong understanding of the Agile development process and have experien
 ### Front-end development:
 - HTML | CSS | SCSS | JS
 - Bootstrap
+- React.js
 
 ### Back-end development:
-- Nodejs | Express
+- Node.js | Express
 - Flask | Django
 
 
