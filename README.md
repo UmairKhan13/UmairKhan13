@@ -19,6 +19,7 @@ I have a strong understanding of the Agile development process and have experien
 ### Automation Technologies:
 - Selenium
 - Appium
+- Cucumber / Gharkins
 - MS WinAppDriver
 - Playwright
 - Cypress
