@@ -1,59 +1,77 @@
-# <div align="center">Hi 👋🏼 This is Umair Khan</div>
- <div align="center"><strong>WELCOME TO MY CODING WORLD!</strong></div>
-<br>
+<div align="center">
 
-👨🏽‍💻 **About Me:**
-<p>As a highly experienced Automation Engineer, I bring a unique blend of technical knowledge and problem-solving skills to the table. My expertise in web and desktop automation, paired with my experience in developing data-driven, keyword-driven, and behavior-driven test automation frameworks, allows me to design and implement efficient and effective test suites that ensure the highest quality of software products. I have been involved in various types of testing including functional, integration, system, regression, acceptance automation, and browser compatibility testing using various testing methodologies.<br>
+# Hey, I'm Umair Khan 👋🏼
 
-I have a strong understanding of the Agile development process and have experience working with frequently changing requirements and feature sets. I am well-versed in attending Scrum, Sprint Planning, Retrospective, and other meetings to ensure smooth project execution. My knowledge and working experience in SDLC and STLC are excellent, with expertise in test planning, test execution, bug reporting, and test results analysis. I am always seeking new challenges and opportunities to learn and grow as an engineer, and I am excited to bring my skills and expertise to a dynamic and forward-thinking team.</p>
-<br>
+**Automation Architect** · Building systems that test themselves so you don't have to
 
-### Programming Languages:
-- JAVA
-- C#/.NET
-- Python
-- Javascript
-- Typescript
-- C/C++
+</div>
 
-### Automation Technologies:
-- Selenium
-- Appium
-- Cucumber / Gharkins
-- MS WinAppDriver
-- Playwright
-- Cypress
-- JMeter
-- Robotics Process Automation (RPA)
+---
 
-### Front-end development:
-- HTML | CSS | SCSS | JS
-- Bootstrap
-- React.js
+I've spent years in the trenches of software quality — writing test frameworks from scratch, taming flaky CI pipelines, and making sure deployments don't become midnight fire drills. These days I work at the architecture level: designing automation ecosystems that scale across teams, languages, and platforms.
 
-### Back-end development:
-- Node.js | Express.js
-- Flask | Django
+I've gone from writing my first Selenium script to owning the full QA infrastructure. Every technology in this README is something I've actually shipped, debugged at 2am, and would use again.
 
+---
 
-### Mobile development:
-- Flutter
-- Native JAVA
+## What I Do
 
-### Databases:
-- MongoDB | Firebase | SQL
+I design and build **end-to-end automation architectures** — the kind that survive growing teams, shifting requirements, and the general chaos of real software development. That means everything from framework design and CI/CD integration to performance baselines and RPA workflows.
 
-### Tools:
-- AzureDevOps
-- JIRA
-- Docker
-- Git
-- Gitlab
-- Jenkins
+I've done this across web, desktop, and mobile, in startups and enterprise environments, always inside Agile teams where the requirements changed before the ink dried.
 
-### How to reach me ?
+---
 
-[<img src="./linkedin_icon.png" width="30" height="30">](https://www.linkedin.com/in/mumairkhan13/)
-[<img src="./website_icon.png" width="30" height="30">](https://muhammadumairkhan.com/)
-[<img src="./medium_icon.png" width="30" height="30">](https://medium.com/@kmuhammadumair02)
-[<img src="./stack_icon.png" width="30" height="30">](https://stackoverflow.com/users/20954212/muhammad-umair-khan)
+## Languages
+
+```
+Java  ·  C# / .NET  ·  Python  ·  JavaScript  ·  TypeScript  ·  C / C++
+```
+
+---
+
+## Automation
+
+| Area | Technologies |
+|---|---|
+| **Web** | Selenium, Playwright, Cypress |
+| **Mobile** | Appium |
+| **Desktop** | MS WinAppDriver |
+| **BDD** | Cucumber / Gherkin |
+| **Performance** | JMeter |
+| **RPA** | Robotic Process Automation |
+
+---
+
+## Development
+
+**Frontend** — HTML, CSS, SCSS, JS, Bootstrap, React.js
+
+**Backend** — Node.js / Express.js, Flask, Django
+
+**Mobile** — Flutter, Native Java
+
+**Databases** — MongoDB, Firebase, SQL
+
+---
+
+## Tools & Platforms
+
+Azure DevOps · JIRA · Docker · Git · GitLab · Jenkins
+
+---
+
+## How I Work
+
+I'm a big believer in shift-left testing, tight feedback loops, and automation that actually gets maintained. I've led sprint ceremonies, written test strategies from scratch, and mentored teams on building quality into the process rather than bolting it on at the end.
+
+If the test suite is the last thing anyone touches before a release, something's already gone wrong.
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mumairkhan13-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mumairkhan13/)
+[![Website](https://img.shields.io/badge/Website-muhammadumairkhan.com-000000?style=flat&logo=safari&logoColor=white)](https://muhammadumairkhan.com/)
+[![Medium](https://img.shields.io/badge/Medium-@kmuhammadumair02-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kmuhammadumair02)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Muhammad%20Umair%20Khan-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20954212/muhammad-umair-khan)
