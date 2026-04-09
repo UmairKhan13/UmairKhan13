@@ -21,11 +21,11 @@
 
 ## 👨🏽‍💻 About Me
 
-I'm an **Automation Architect** with a decade of experience building quality systems that actually survive production — not just pass in a demo environment.
+I'm an **Automation Architect** with a decade of experience building quality systems that actually survive production, not just pass in a demo environment.
 
-I started where most do: writing Selenium scripts, chasing flaky tests, and fighting CI pipelines at 2am. Over time I moved up the stack — designing full automation ecosystems, leading QA strategy across cross-functional teams, and integrating test intelligence into the SDLC from day one, not as an afterthought.
+I started where most do: writing Selenium scripts, chasing flaky tests, and fighting CI pipelines at 2am. Over time I moved up the stack, designing full automation ecosystems, leading QA strategy across cross-functional teams, and integrating test intelligence into the SDLC from day one, not as an afterthought.
 
-Today I architect frameworks across **web, desktop, mobile, and performance** — including cutting-edge **computer vision based Windows automation** for scenarios where traditional locators simply can't reach. Everything I build is maintainable, scalable, and built to outlast the sprint it was created in.
+Today I architect frameworks across **web, desktop, mobile, and performance**, including cutting-edge **computer vision based Windows automation** for scenarios where traditional locators simply can't reach. Everything I build is maintainable, scalable, and built to outlast the sprint it was created in.
 
 > *"If the test suite is the last thing anyone touches before a release, something's already gone wrong."*
 
