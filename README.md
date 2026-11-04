@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Umair%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Automation%20Architect&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Umair%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Architect&descAlignY=58&descSize=20&descColor=a8d8ea" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C8EBB&center=true&vCenter=true&width=700&lines=Automation+Architect+%7C+QA+Engineering+Leader;Designing+frameworks+that+scale%2C+not+just+pass;Web+%7C+Mobile+%7C+Desktop+%7C+Performance+%7C+RPA;Shift-Left+%7C+CI%2FCD+%7C+BDD+%7C+Computer+Vision+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C8EBB&center=true&vCenter=true&width=700&lines=AI+Automation+Architect+%7C+QA+Engineering+Leader;Designing+frameworks+that+scale%2C+not+just+pass;Web+%7C+Mobile+%7C+Desktop+%7C+Performance+%7C+RPA;Shift-Left+%7C+CI%2FCD+%7C+BDD+%7C+Computer+Vision+Automation)](https://git.io/typing-svg)
 
 <br/>
 
